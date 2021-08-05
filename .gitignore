@@ -1,0 +1,11 @@
+.DS_Store
+.idea/
+projects/*/
+!projects/static/
+.envrc
+.vscode/
+yarn.lock
+newapp/migrations/
+.history/
+tmp/
+docker/db_data
